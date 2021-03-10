@@ -1,0 +1,2 @@
+cd atchan
+yarn build
