@@ -1,2 +1,4 @@
 cd atchan
-yarn build
+    yarn build
+cd ..\
+copy .\atchan\build .\ /y 

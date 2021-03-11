@@ -64,8 +64,6 @@ class Navi extends React.Component {
                     <Menu
                         onClick={this.handleClick}
                         style={{minHeight:"100%", height:"100%"}}
-                        defaultSelectedKeys={['1']}
-                        defaultOpenKeys={['sub1']}
                         mode="inline"
                     >
                         {submenus}
@@ -83,6 +81,7 @@ class ViewPort extends React.Component {
         return (
             <Content>
                 <iframe src={this.props.src}
+                    style = {{border:0}}
                     width = "100%"
                     height = "100%"
                 ></iframe>
