@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.565396a1.css",
+    "main.js": "/static/js/main.a4b4b44c.js",
+    "static/media/mplus_hzk_12.ttf": "/static/media/mplus_hzk_12.bf13112298e13ad1eb99.ttf",
+    "index.html": "/index.html",
+    "static/media/drawpad512.webp": "/static/media/drawpad512.61199887c00d9c158b40.webp",
+    "static/media/eraser_button.webp": "/static/media/eraser_button.8eb96795d5df651283b9.webp",
+    "static/media/pencil_button.webp": "/static/media/pencil_button.7026483a999f9055b7aa.webp",
+    "static/media/picker_button.webp": "/static/media/picker_button.1aa6b69499fd460ec8ba.webp",
+    "static/media/color_container.webp": "/static/media/color_container.9d7e4df47638cdc8e711.webp",
+    "static/media/bubble.webp": "/static/media/bubble.07554c2b9f87c03deece.webp",
+    "static/media/bubble_sleep.webp": "/static/media/bubble_sleep.45e029f7cd1e0d44280c.webp",
+    "static/media/pallete_block.webp": "/static/media/pallete_block.b3cc39b9b91f262be587.webp",
+    "static/media/pointer.webp": "/static/media/pointer.89e963877898a6341502.webp",
+    "main.565396a1.css.map": "/static/css/main.565396a1.css.map",
+    "main.a4b4b44c.js.map": "/static/js/main.a4b4b44c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.565396a1.css",
+    "static/js/main.a4b4b44c.js"
+  ]
+}
